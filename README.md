@@ -5,7 +5,7 @@ title: 屋顶上等风也等你
 
 {{ page.title }}
 ============
-> 不会画画的程序员不是个好光棍 T_T
+不会画画的程序员不是个好光棍 T_T
 
 
 
@@ -35,7 +35,7 @@ title: 屋顶上等风也等你
 
 # [Blogs](/blog)
 
-> 博客贵在坚持啊，每周至少一篇！
+博客贵在坚持啊，每周至少一篇！
 
 <ul>
 {% for post in site.posts %}
@@ -46,14 +46,15 @@ title: 屋顶上等风也等你
 
 # [Repositories](https://github.com/wuding)
 
-> 2010 年加入了 GitHub 但是 3 年后才用，后 5 年创建了 23 个代码仓库，但提交次数极少。
-> 今年才开始正式用起来！要保持每周最少推送 5 次……
+2010 年加入了 GitHub 但是 3 年后才用，后 5 年创建了 23 个代码仓库，但提交次数极少。
+
+今年才开始正式用起来！要保持每周最少推送 5 次……
 
 
 
 ## 2018 年
 
-> PHP 框架和 UI，优惠券和返利购物，博客和笔记
+PHP 框架和 UI，优惠券和返利购物，博客和笔记
 
 1. 2018-09-21 [wuding.github.io](https://github.com/wuding/wuding.github.io) Markdown 博客
 1. 2018-09-20 [note](https://github.com/wuding/note) Web 开发笔记
@@ -66,7 +67,7 @@ title: 屋顶上等风也等你
 
 ## 2015 年
 
-> 商品条码
+商品条码
 
 1. 2015-07-02 [barcode](https://github.com/wuding/barcode) 商品条形码查询
 
@@ -74,7 +75,7 @@ title: 屋顶上等风也等你
 
 ## 2014 年
 
-> PHP 手册和类库，账号系统，OpenSearch，API 回调
+PHP 手册和类库，账号系统，OpenSearch，API 回调
 
 1. 2014-10-20 ?=[library](https://github.com/wuding/library.20141018) 
 1. 2014-02-10 *[php](https://github.com/wuding/php-manual) PHP 手册和在线试用
@@ -90,7 +91,7 @@ title: 屋顶上等风也等你
 
 ## 2013 年
 
-> 图书和下一页合并，搜索引擎及搜索建议，磁力链接和种子文件，网站分析（包括用户代理）和排名，失效的快播、百度影音、飞速网盘
+图书和下一页合并，搜索引擎及搜索建议，磁力链接和种子文件，网站分析（包括用户代理）和排名，失效的快播、百度影音、飞速网盘
 
 1. 2013-12-18 -[qvod](https://github.com/wuding/com.urlnk.qvod.20131218) 快播
 1. 2013-12-16 [page](https://github.com/wuding/com.urlnk.page.20131216) 下一页 - 合并网页图文
