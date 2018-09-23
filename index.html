@@ -1,8 +1,0 @@
----
-layout: default
-title: 屋顶上等风也等你
----
-
-{% for post in site.posts %}
-  <li>{{ post.date | date_to_string }} {{ post.date | date_to_xmlschema }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
