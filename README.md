@@ -50,7 +50,7 @@ title: 屋顶上等风也等你
 
 
 > 2010 年加入了 GitHub 但是 3 年后才用，之后 3 年内创建了 23 个代码仓库，但提交次数极少。
-
+>
 > 2018 年才开始正式用起来！要保持每周最少推送 5 次……
 
 
@@ -58,9 +58,13 @@ title: 屋顶上等风也等你
 ### 2018 年
 
 > 框架 Taurusphp（机器人）、Virgophp、Cancerphp（优惠券购物）、Geminiphp；
+> 
 > 包 equiv-route；
+> 
 > 文档：MySQL，博客和笔记，UI、Legend；
+> 
 > 静态站点：互联网技术指南、软件酷；
+> 
 > 开发运维：Docker、HTTP 状态码。
 
 
@@ -112,7 +116,9 @@ title: 屋顶上等风也等你
 ### 2013 年
 
 > 图书，下一页合并；
+> 
 > 搜索引擎及搜索建议，网站分析（包括用户代理）和排名；
+> 
 > 磁力链接和种子文件，失效的快播、百度影音、飞速网盘。
 
 1. 2013-12-18 -[qvod](https://github.com/wuding/com.urlnk.qvod.20131218) 快播
@@ -126,5 +132,5 @@ title: 屋顶上等风也等你
 1. 2013-09-29 [bdhd:](https://github.com/wuding/com.urlnk.bdhd.20130924) 百度影音
 1. 2013-09-27 [wudso](https://github.com/wuding/20130306) 无搜不有网站 - 搜索引擎大全
 1. 2013-09-17 [fs2you:](https://github.com/wuding/20130226) RayFile 飞速网网盘链接资源
-1. <time>2013-09-17</time> =[magnet:](https://github.com/wuding/20130913)
-1. <time>2013-09-17</time> [magnet:](https://github.com/wuding/magnet) 磁力链接资源搜索
+1. 2013-09-17 =[magnet:](https://github.com/wuding/20130913)
+1. 2013-09-17 [magnet:](https://github.com/wuding/magnet) 磁力链接资源搜索
