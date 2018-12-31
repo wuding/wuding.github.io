@@ -12,7 +12,6 @@ title: 屋顶上等风也等你
 		<li>红券网 <a href="https://www.cpn.red">www.cpn.red</a> 优惠券和返利购物搜索</li>
 		<li>在线 m3u8 播放器 <a href="http://cpn.red/play">cpn.red/play</a></li>
 	</ul>
-
 	<b>开发中的网站</b>：
 	<ul>
 		<li>有链网 <a href="http://urlnk.com">urlnk.com</a> 全网聚合社交网站</li>
@@ -46,10 +45,6 @@ title: 屋顶上等风也等你
 <blockquote>PHP 框架和 UI，优惠券和返利购物，博客和笔记</blockquote>
 <ol>
 	<li><time>2018-09-21</time> <a href="https://github.com/wuding/wuding.github.io">wuding.github.io</a> Markdown 博客</li>
-	<li><time>2018-09-20</time> <a href="https://github.com/wuding/note">note</a> Web 开发笔记</li>
-	<li><time>2018-07-24</time> <a href="https://github.com/wuding/gui">ui</a> 用户界面 (User Interface)</li>
-	<li><time>2018-07-23</time> <a href="https://github.com/wuding/couponiang">couponiang</a> 凑婆娘 - 优惠券和返利购物搜索</li>
-	<li><time>2018-04-06</time> <a href="https://github.com/urlnk/astrophp">astrophp</a></li>
 	<li><time>2018-01-28</time> <a href="https://github.com/wuding/astrology">astrology</a> wuphp 无与伦比 PHP 框架 - 极速全能的 RESTful API 和 Web 应用框架</li>
 </ol>
 
@@ -63,13 +58,6 @@ title: 屋顶上等风也等你
 <blockquote>PHP 手册和类库，账号系统，OpenSearch，API 回调</blockquote>
 <ol>
 	<li><time>2014-10-20</time> <a href="https://github.com/wuding/library.20141018">library</a></li>
-	<li><time>2014-02-10</time> <a href="https://github.com/wuding/php-manual">php</a> PHP 手册和在线试用</li>
-	<li><time>2014-01-08</time> <a href="https://github.com/wuding/com.wudso.www.20140108">wudso</a></li>
-	<li><time>2014-01-06</time> <a href="https://github.com/wuding/com.wudso.passport.20140106">passport</a> 用户账号系统</li>
-	<li><time>2014-01-05</time> <a href="https://github.com/wuding/com.wudso.kaisou.20140104">kaisou</a> 开搜</li>
-	<li><time>2014-01-05</time> <a href="https://github.com/wuding/com.filemule.opensearch.20130818">opensearch</a></li>
-	<li><time>2014-01-05</time> <a href="https://github.com/wuding/com.filemule.opensearch.20130805">opensearch</a> OpenSearch</li>
-	<li><time>2014-01-04</time> <a href="https://github.com/wuding/library.20130806">library</a> PHP 类库</li>
 	<li><time>2014-01-04</time> <a href="https://github.com/wuding/com.gowud.callback.20140104">callback</a> API 回调</li>
 </ol>
 
@@ -77,16 +65,5 @@ title: 屋顶上等风也等你
 <blockquote>图书和下一页合并，搜索引擎及搜索建议，磁力链接和种子文件，网站分析（包括用户代理）和排名，失效的快播、百度影音、飞速网盘</blockquote>
 <ol>
 	<li><time>2013-12-18</time> <a href="https://github.com/wuding/com.urlnk.qvod.20131218">qvod</a> 快播</li>
-	<li><time>2013-12-16</time> <a href="https://github.com/wuding/com.urlnk.page.20131216">page</a> 下一页 - 合并网页图文</li>
-	<li><time>2013-12-14</time> <a href="https://github.com/wuding/com.gowud.book.20131206">book</a> 图书购买和评论</li>
-	<li><time>2013-12-04</time> <a href="https://github.com/wuding/com.softwu.user-agent.20131204">user-agent</a> 用户代理标识符收集</li>
-	<li><time>2013-11-18</time> <a href="https://github.com/wuding/com.wudso.search-suggestions.20130920">search-suggestions</a> OpenSearch 搜索建议</li>
-	<li><time>2013-11-08</time> <a href="https://github.com/wuding/com.urlnk.alexa.20130816">alexa</a> Alexa 网站排名</li>
-	<li><time>2013-10-13</time> <a href="https://github.com/wuding/com.urlnk.web-analytics.20130919">web-analytics</a> 网站分析 (Web Analytics)</li>
-	<li><time>2013-10-12</time> <a href="https://github.com/wuding/com.filemule.torrent.20130920">.torrent</a> BT 种子文件搜索与下载</li>
-	<li><time>2013-09-29</time> <a href="https://github.com/wuding/com.urlnk.bdhd.20130924">bdhd:</a> 百度影音</li>
-	<li><time>2013-09-27</time> <a href="https://github.com/wuding/20130306">wudso</a> 无搜不有网站 - 搜索引擎大全</li>
-	<li><time>2013-09-17</time> <a href="https://github.com/wuding/20130226">fs2you:</a> RayFile 飞速网网盘链接资源</li>
-	<li><time>2013-09-17</time> <a href="https://github.com/wuding/20130913">magnet:</a></li>
 	<li><time>2013-09-17</time> <a href="https://github.com/wuding/magnet">magnet:</a> 磁力链接资源搜索</li>
 </ol>
