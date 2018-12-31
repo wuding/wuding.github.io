@@ -53,6 +53,9 @@ title: 屋顶上等风也等你
 >
 > 2018 年才开始正式用起来！要保持每周最少推送 5 次……
 
+目前共有 41 个库，平均 30 天创建一个（不包含 16 和 17 年）
+
+
 
 
 ### 2018 年
@@ -82,7 +85,7 @@ title: 屋顶上等风也等你
 1. 2018-09-24 [static-site.github.io](https://github.com/static-site/static-site.github.io) 空
 1. 2018-09-21 [wuding.github.io](https://github.com/wuding/wuding.github.io) Markdown 博客
 1. 2018-09-20 [note](https://github.com/wuding/note) Web 开发笔记
-1. 2018-07-24 *[ui](https://github.com/wuding/gui) 用户界面 (User Interface)
+1. 2018-07-24 [ui](https://github.com/wuding/ui) 用户界面 (User Interface)
 1. 2018-07-23 [couponiang](https://github.com/wuding/couponiang) Cancerphp 框架， 凑婆娘 - 优惠券和返利购物搜索
 1. 2018-04-06 =[urlnk/astrophp](https://github.com/urlnk/astrophp) Virgophp
 1. 2018-01-28 *[astrology](https://github.com/wuding/astrology) Taurusphp 框架 - 极速全能的 RESTful API 和 Web 应用框架
