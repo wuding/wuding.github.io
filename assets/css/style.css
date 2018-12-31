@@ -38,6 +38,10 @@ blockquote {
 	background-color: lightyellow;
 }
 
+blockquote p {
+	margin: 0;
+}
+
 section {
 	padding: 10px;
     border: 1px dashed #ddd;
