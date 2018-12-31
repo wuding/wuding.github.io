@@ -5,9 +5,11 @@ title: 屋顶上等风也等你
 
 # {{ page.title }}
 
+<blockquote>
 不会画画的程序员不是个好光棍 T_T
+</blockquote>
 
-
+<section>
 
 **已上线的网站**：
 
@@ -23,6 +25,8 @@ title: 屋顶上等风也等你
 - 有个指南 http://tutorial.pub 互联网技术指南，在线文档社区
 - 影迷网 http://yingmi.xyz 影视资料库，在线观看和下载
 
+</section>
+
 
 
 ## [Notes](https://wuding.github.io/note/)
@@ -34,7 +38,9 @@ title: 屋顶上等风也等你
 
 ## [Blogs](/blog)
 
+<blockquote>
 博客贵在坚持啊，每周至少一篇！
+</blockquote>
 
 <ul>
 {% for post in site.posts %}
@@ -45,14 +51,16 @@ title: 屋顶上等风也等你
 
 ## [Repositories](https://github.com/wuding)
 
+<blockquote>
 2010 年加入了 GitHub 但是 3 年后才用，之后 3 年内创建了 23 个代码仓库，但提交次数极少。
 
 2018 年才开始正式用起来！要保持每周最少推送 5 次……
-
+</blockquote>
 
 
 ### 2018 年
 
+<blockquote>
 框架 Taurusphp（机器人）、Virgophp、Cancerphp（优惠券购物）、Geminiphp；
 
 包 equiv-route；
@@ -62,6 +70,7 @@ title: 屋顶上等风也等你
 静态站点：互联网技术指南、软件酷；
 
 开发运维：Docker、HTTP 状态码。
+</blockquote>
 
 1. 2018-12-31 [geminiphp](https://github.com/wuding/geminiphp)
 1. 2018-12-24 [mysql-tutorial](https://github.com/wuding/mysql-tutorial) gitbook
@@ -86,7 +95,10 @@ title: 屋顶上等风也等你
 
 ### 2015 年
 
-商品条码
+>
+> 商品条码
+>
+
 
 1. 2015-07-02 [barcode](https://github.com/wuding/barcode) 空，商品条形码查询
 
@@ -94,7 +106,11 @@ title: 屋顶上等风也等你
 
 ### 2014 年
 
-`PHP 手册和类库，账号系统，OpenSearch，API 回调`
+<blockquote>
+
+PHP 手册和类库，账号系统，OpenSearch，API 回调
+
+</blockquote>
 
 1. 2014-10-20 ?=[library](https://github.com/wuding/library.20141018) 
 1. 2014-02-10 *[php](https://github.com/wuding/php-manual) PHP 手册和在线试用
@@ -110,14 +126,14 @@ title: 屋顶上等风也等你
 
 ### 2013 年
 
-```
+<blockquote>
 图书，下一页合并；
 
 搜索引擎及搜索建议，网站分析（包括用户代理）和排名；
 
 磁力链接和种子文件，失效的快播、百度影音、飞速网盘。
-```
 
+</blockquote>
 
 
 1. 2013-12-18 -[qvod](https://github.com/wuding/com.urlnk.qvod.20131218) 快播
