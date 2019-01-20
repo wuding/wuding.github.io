@@ -55,6 +55,7 @@ title: 屋顶上等风也等你
 
 ### 2019 年
 
+1. 2019-01-20 [private](https://github.com/wuding/private)
 1. 2019-01-16 [php-ext](https://github.com/wuding/php-ext)
 1. 2019-01-16 [php-bot](https://github.com/wuding/php-bot)
 
