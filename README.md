@@ -53,8 +53,17 @@ title: 屋顶上等风也等你
 >
 > 2018 年才开始正式用起来！要保持每周最少推送 5 次……
 
+---
+
+19 年又 10 个库了，还是有点意义的，无奈不够专精、再多也无济于事，整合…… for a
+
 ### 2019 年
 
+1. 2019-04-14 [anfora] 类文件加载器
+1. 2019-03-21 [apicdn] 空，输入输出内容缓存
+1. 2019-03-20 [emcee] 空，音乐云引擎
+1. 2019-02-20 [php-func]
+1. 2019-02-19 [opensearch-php]
 1. 2019-01-21 [devops-env/user-agent](https://github.com/devops-env/user-agent) 用户代理
 1. 2019-01-20 [devops-env/dev](https://github.com/devops-env/dev) 开发起步
 1. 2019-01-20 [private](https://github.com/wuding/private)
