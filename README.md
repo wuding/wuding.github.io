@@ -13,7 +13,7 @@ title: 屋顶上等风也等你
 **已上线的网站**：
 
 - 红券网 http://www.cpn.red 优惠券和返利购物搜索
-- 在线 m3u8 播放器 http://cpn.red/play
+- 在线影音播放器 http://yingmi.xyz/play
 
 
 
@@ -67,11 +67,11 @@ title: 屋顶上等风也等你
 >
 > 版本库组织。
 
-1. 2019-04-14 [anfora] 类文件加载器
+1. 2019-04-14 [anfora](https://github.com/wuding/anfora) 类文件加载器
 1. 2019-03-21 [apicdn] 空，输入输出内容缓存
 1. 2019-03-20 [emcee] 空，音乐云引擎
-1. 2019-02-20 [php-func]
-1. 2019-02-19 [opensearch-php]
+1. 2019-02-20 [php-func](https://github.com/wuding/php-func)
+1. 2019-02-19 [opensearch-php](https://github.com/wuding/opensearch-php)
 1. 2019-01-21 [devops-env/user-agent](https://github.com/devops-env/user-agent) 用户代理
 1. 2019-01-20 [devops-env/dev](https://github.com/devops-env/dev) 开发起步
 1. 2019-01-20 [private](https://github.com/wuding/private)
